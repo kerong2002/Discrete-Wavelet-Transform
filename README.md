@@ -15,3 +15,10 @@
 ![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Two-Level_RTL.png)
 ## Waveform
 ![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Two-Level_Waveform2.png)
+
+# One-Dimensional_Three-Level
+## Desgin
+![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Three-Level.png)
+## RTL
+![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Three-Level_RTL.png)
+## Waveform
