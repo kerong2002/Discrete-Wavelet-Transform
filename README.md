@@ -14,4 +14,4 @@
 ## RTL
 ![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Two-Level_RTL.png)
 ## Waveform
-![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Two-Level_Waveform.png)
+![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Two-Level_Waveform2.png)
