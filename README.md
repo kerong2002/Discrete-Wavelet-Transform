@@ -22,3 +22,4 @@
 ## RTL
 ![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Three-Level_RTL2.png)
 ## Waveform
+![img](https://github.com/kerong2002/Discrete-Wavelet-Transform/blob/main/One-Dimensional_Three-Level_Waveform.png)
